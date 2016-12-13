@@ -1,0 +1,12 @@
+{
+  "name": "swagger-type-script-generator",
+  "version": "0.0.0",
+  "description": "SwaggerTypeScriptGenerator",
+  "main": "app.js",
+  "author": {
+    "name": "mlahlou"
+  },
+  "dependencies": {
+    "lodash": "^4.17.2"
+  }
+}

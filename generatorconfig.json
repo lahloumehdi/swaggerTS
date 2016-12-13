@@ -1,0 +1,6 @@
+{
+	"targetsource" :  "src/source.json",
+	"apiversion" : "0.0.0",
+	"namespace" : "API",
+	"destination" : "api.generated.ts"
+}
